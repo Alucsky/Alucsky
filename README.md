@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  18-year-old Full Stack Developer building web and mobile apps since 2024.<br/>
+  18-year-old Full Stack Developer building web and mobile apps, coding since 2023.<br/>
   I love developing innovative ideas and applying AI practically throughout the development process.
 </p>
 
