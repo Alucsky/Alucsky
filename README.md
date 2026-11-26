@@ -27,7 +27,7 @@
 
 ### 🔭 What I'm up to
 
-- Building **[Pratada](https://pratada.samuelmolinari8.workers.dev)**, my own social app where friends post their plates and everyone guesses the calories
+- Building **[Pratada](https://pratada.app)**, my own social app where friends post their plates and everyone guesses the calories
 - Building web and mobile applications at **Tog Lab**
 - Learning **AWS** (studying for the Cloud Practitioner certification)
 - Applying **AI practically** in my day-to-day dev workflow — custom MCP servers, automation, and AI-assisted planning (FDD, TDD, ADR)
@@ -40,7 +40,7 @@ React · Next.js · NestJS · React Native · AI-assisted development (MCP)
 
 ### ⚡ Featured projects
 
-**[Pratada](https://pratada.samuelmolinari8.workers.dev)** — a social game about food that I build end to end: product, 270+ screen prototype, React Native app, NestJS API and an animated Next.js site. Documented with a PRD and 40+ architecture decision records. In development.
+**[Pratada](https://pratada.app)** — a social game about food that I build end to end: product, 270+ screen prototype, React Native app, NestJS API and an animated Next.js site. Documented with a PRD and 40+ architecture decision records. In development.
 
 **[mcp-demo-server](https://github.com/Alucsky/mcp-demo-server)** — an MCP (Model Context Protocol) server built with Node.js and TypeScript. Exposes tools that AI agents like Claude Code can call directly: a task manager, a calculator, and a server-info tool — all schema-validated with Zod, unit-tested with Vitest, and cleanly decoupled from the transport layer.
 
