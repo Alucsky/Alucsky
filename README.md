@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alucsky&label=Profile%20views&color=38BDF8&style=flat" alt="alucsky" />
-  <a href="https://pratada.app" target="blank"><img src="https://img.shields.io/badge/first_domain-pratada.app-4700FF?style=flat&logo=googlechrome&logoColor=white" alt="First domain: pratada.app" /></a>
+  <a href="https://pratada.app" target="blank"><img src="assets/first-domain.svg" alt="First domain: pratada.app" /></a>
 </p>
 
 <p align="center">
