@@ -30,7 +30,7 @@
 
 - Building **[Pratada](https://pratada.app)**, my own social app where friends post their plates and everyone guesses the calories
 - Building web and mobile applications at **Tog Lab**
-- Learning **AWS** (studying for the Cloud Practitioner certification)
+- **AWS Certified Cloud Practitioner** (CLF-C02, Aug 2026)
 - Applying **AI practically** in my day-to-day dev workflow — custom MCP servers, automation, and AI-assisted planning (FDD, TDD, ADR)
 
 ### 💬 Ask me about
